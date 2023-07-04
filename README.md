@@ -9,7 +9,9 @@ through technology solutions
 
 -👯 I’m looking to collaborate with any likeminded individuals who are willing to challenge themselves and push boundaries
 
--📫 How to reach me: email: nicholasfong1120@gmail.com 
+-📫 How to reach me: 
+-email: nicholasfong1120@gmail.com 
+-LinkedIn: [nicholasfong](http://www.linkedin.com/in/nicholas-fong-1425b8221)
 
 -😄 Pronouns: he/him
 
