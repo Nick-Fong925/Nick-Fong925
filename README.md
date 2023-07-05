@@ -11,7 +11,7 @@ through technology solutions
 
 -📫 How to reach me: 
 
--email: nicholasfong1120@gmail.com 
+-Email: nicholasfong1120@gmail.com 
 
 -LinkedIn: [nicholasfong](http://www.linkedin.com/in/nicholas-fong-1425b8221)
 
