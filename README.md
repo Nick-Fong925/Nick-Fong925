@@ -36,15 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nick-Fong925&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Fong925&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
 ## 🚀 What I'm Working On
 
 - 🤖 Exploring **generative AI** integrations for real-world applications
